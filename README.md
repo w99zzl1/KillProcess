@@ -34,3 +34,14 @@
    ```bash
    git clone https://github.com/w99zzl1/KillProcess.git
    cd KillProcess
+   
+2. Установите зависимости:
+  ```bash
+  pip install -r requirements.txt
+```
+
+## Использование
+Запустите скрипт:
+
+```bash
+python KillProcess.py
